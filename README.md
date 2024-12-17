@@ -16,12 +16,4 @@ This project is a simple web page demonstrating Bootstrap-based navigation, form
 
 ## Dependencies
 
-- **Bootstrap v4.5.2**
-- **jQuery v3.5.1**
-- **Popper.js v2.5.2**
-
-## Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/bootstrap-mini-project.git
+- **Bootstrap**
